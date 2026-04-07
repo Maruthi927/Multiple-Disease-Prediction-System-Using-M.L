@@ -1,0 +1,14 @@
+<data>
+  <sample>
+    <Pregnancies>6</Pregnancies>
+    <Glucose>148</Glucose>
+    <BloodPressure>72</BloodPressure>
+    <SkinThickness>35</SkinThickness>
+    <Insulin>0</Insulin>
+    <BMI>33.6</BMI>
+    <DiabetesPedigreeFunction>0.627</DiabetesPedigreeFunction>
+    <Age>50</Age>
+    <Outcome>1</Outcome>
+  </sample>
+  ... (more samples)
+</data>
